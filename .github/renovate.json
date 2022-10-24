@@ -4,7 +4,7 @@
 		"config:base"
 	],
 	"ignorePresets": [":prHourlyLimit2"],
-	"baseBranches": ["develop"],
+	"baseBranches": ["ayuskey"],
 	"timezone": "Asia/Tokyo",
 	"dependencyDashboard": false,
 	"automerge": false,
